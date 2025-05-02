@@ -53,6 +53,6 @@ It includes feature normalization, experimentation with different values of `K`,
 ## Example Output
 
 Best K: 5 Accuracy (K=5): 0.933 Confusion Matrix: [[10 0 0] [ 0 10 1] [ 0 1 8]] Classification Report: precision recall f1-score support
-       0       1.00      1.00      1.00        10
-       1       0.91      0.91      0.91        11
-       2       0.89      0.89      0.89         9
+      - 0       1.00      1.00      1.00        10
+      - 1       0.91      0.91      0.91        11
+      - 2       0.89      0.89      0.89         9
