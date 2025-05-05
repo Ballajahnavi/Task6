@@ -6,13 +6,6 @@ It includes feature normalization, experimentation with different values of `K`,
 
 ---
 
-## Project Structure
-
-- `iris_knn_classification.py` → Python code implementing the entire KNN pipeline  
-- `README.md` → Project overview and instructions
-
----
-
 ## Technologies Used
 
 - Python  
